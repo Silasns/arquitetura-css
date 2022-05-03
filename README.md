@@ -1,2 +1,2 @@
 # arquitetura-css
-curso de arquitetura da Alura. 
+curso de arquitetura de css Alura da alura abordando as arquiteturas de css BEM e Atomic. 
